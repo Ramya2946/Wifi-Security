@@ -29,6 +29,15 @@ Each standard is an amendment that was ratified over time. The standards operate
 
 ## Various types of attack on Wi-Fi
 
+packet sniffing.
+rogue access points.
+Wi-Fi phishing and evil twins.
+spoofing attacks.
+encryption cracking.
+MitM attacks.
+DoS attacks.
+Wi-Fi jamming.
+
 ## setting up wifi and configuring it to monitor mode 
 
 ![image](https://user-images.githubusercontent.com/68326118/230085018-846fedf7-5883-4968-bb88-e99a0a89f4ed.png)
