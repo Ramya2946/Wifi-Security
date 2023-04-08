@@ -95,13 +95,10 @@ The created access point
 
 ![image](https://user-images.githubusercontent.com/68326118/230289028-56a1687a-33c6-4ae5-a07b-12a90415f66a.png)
 
-
-
-### After capturing the required filesfortesting, usedictionarygeneration and password cracking tools to crack the Wi-Fi password. 
-a.You mustuse an existing word file to crack the password.
-b.Also you have to create your dictionaryfilefor cracking the passwords.
-c.Keep 3 different types of passwordsforyour Wi-Fi to test it. 
-Simple, medium,and complex passwords can be used for testing. Simple can be a dictionary word, medium can be of dictionaryword with some numbers, and complex can be generated from any password generatoronline. 
+## After capturing the required filesfortesting, usedictionarygeneration and password cracking tools to crack the Wi-Fi password. 
+### a.You mustuse an existing word file to crack the password.
+### b.Also you have to create your dictionaryfilefor cracking the passwords.
+### c.Keep 3 different types of passwordsforyour Wi-Fi to test it. Simple, medium,and complex passwords can be used for testing. Simple can be a dictionary word, medium can be of dictionaryword with some numbers, and complex can be generated from any password generatoronline. 
 
 ![image](https://user-images.githubusercontent.com/68326118/230714611-9913f2c1-dbaf-43dc-8315-0d44a8e025d9.png)
 
@@ -110,3 +107,15 @@ Simple, medium,and complex passwords can be used for testing. Simple can be a di
 ![image](https://user-images.githubusercontent.com/68326118/230719444-a9869e42-e9bd-41d5-8a7c-d3d9eedc9f2f.png)
 
 ![image](https://user-images.githubusercontent.com/68326118/230720754-a0153f7c-f81f-40fa-9f54-f737ce53058e.png)
+
+## Learn the protocol level working of WPA3 and how it differsfrom WPA2.
+  
+  WPA3 (Wi-Fi Protected Access 3) is the latest standard for securing Wi-Fi networks, which was introduced in 2018. It offers several improvements over its predecessor, WPA2, including stronger encryption, enhanced protection against password cracking, and improved security for public Wi-Fi networks.
+
+At the protocol level, WPA3 uses a new key exchange protocol called "Simultaneous Authentication of Equals" (SAE) or Dragonfly, which is more resistant to offline dictionary attacks. Unlike WPA2, which uses the Pre-Shared Key (PSK) method to authenticate users and devices, WPA3 uses a stronger method called "Opportunistic Wireless Encryption" (OWE). This method provides encryption to networks that don't have a password or where the password is shared among many users, such as public Wi-Fi networks.
+
+WPA3 also introduces new encryption algorithms, including 256-bit Galois/Counter Mode Protocol (GCMP-256) and 384-bit Hashed Message Authentication Code (HMAC) with Secure Hash Algorithm 384 (SHA-384) for data integrity protection. These encryption algorithms are more secure and efficient than the ones used in WPA2.
+
+Another key feature of WPA3 is Protected Management Frames (PMF), which provides protection against denial-of-service attacks and other wireless network attacks. PMF ensures that management frames are encrypted and authenticated, preventing attackers from spoofing these frames to take control of the network.
+
+In summary, WPA3 offers several improvements over WPA2 at the protocol level, including stronger encryption, improved password protection, and enhanced security for public Wi-Fi networks. It achieves these improvements through the use of a new key exchange protocol, stronger encryption algorithms, and enhanced protection against wireless network attacks.
